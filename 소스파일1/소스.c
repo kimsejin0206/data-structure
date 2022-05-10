@@ -4,6 +4,8 @@
 #include <Windows.h>    //실행시간 측정
 #include <time.h>   //난수 발생 시드 값의 인자 time() 함수
 
+/*수정된 파일 ver 2022-05-10*/
+
 //스택의 크기를 전역변수로 선언
 int stack_size = 0;
 
